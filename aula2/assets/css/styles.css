@@ -1,0 +1,45 @@
+p{
+    color: black;
+    text-align: center;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    font-size: 30px;
+
+}
+div h1{
+    color: blue;
+    
+}
+hr{
+    height: 5px;
+    background-color: black;
+}
+.nomelogo{
+    text-align: center;
+    color: green;
+    border-bottom: 3\px;
+    border-color: black;
+    border-style: solid;
+}
+
+    
+
+.pesquisa{
+    
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    font-size: 20px;
+}
+video{
+    width: 450px;
+    height: auto;
+    
+}
+img{
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: auto
+}
