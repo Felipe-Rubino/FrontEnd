@@ -7,6 +7,21 @@ p{
     font-size: 30px;
 
 }
+@keyframes anim1{
+    from{background-color: green;}
+    to{background-color:lightgreen;}
+}
+.div10{
+    font-style: oblique;
+    font-size: larger;
+    width: 100px;
+    height: 100px;
+    padding-left: 40px;
+    border-radius: 40%;
+    background-color: green;
+    animation-name: anim1;
+    animation-duration: 3s;
+}
 div h1{
     color: blue;
     
@@ -21,6 +36,9 @@ hr{
     border-bottom: 3\px;
     border-color: black;
     border-style: solid;
+    padding: 15px;
+    margin: 0 auto
+    
 }
 
     
@@ -42,4 +60,7 @@ img{
     height: auto;
     display: block;
     margin: auto
+}
+body{
+    background-color: lightgrey;
 }

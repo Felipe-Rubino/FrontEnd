@@ -1,0 +1,86 @@
+.container-header{
+
+    display: flex;
+    justify-content: left;
+    margin: 0;
+   
+}
+body{
+    background-image: url(../images/naruto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.testenav{
+    background-color: transparent !important;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.foto1 {
+    width: 10px;
+    height: 100px;
+    margin-top: 70px;
+    
+}
+#imagestop{
+    margin: 0;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+section{
+    display: flex;
+    justify-content: left;
+    margin-top: 10px;
+    margin-left: 160px;
+    
+    
+    
+}
+.mapa{
+    width: 60vw;
+    height: 50vw;
+    margin-bottom: 50px;
+    
+}
+.container{
+  padding: 10px;
+  
+    
+}
+.containerim{
+    padding: 10px;
+    
+   
+}
+.coluna-direita{
+    width: 10px;
+    float: right;
+    margin-right: 250px;
+    
+    
+    
+    
+}
+.foto2{
+    width: 195px;
+    margin-bottom: 40px;
+    border-bottom: 10px solid;
+    border-color: black;
+    padding: 3px;
+    margin-left: 20px;
+    
+   
+    
+    
+}
+.texto{
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    margin-left: 100px;
+   
+    
+    
+ 
+    
+}
